@@ -39,16 +39,27 @@ TRAIN: [https://drive.google.com/drive/folders/1NDtY2xCpYwyBBJsjmx01jWJaNBblhmY4
 ### Dataset Structure:
 
 project/
+
 │── train/
+
 │   ├── angry/
+
 │   ├── happy/
+
 │   ├── sad/
+
 │   └── ...
+
 │── test/
+
 │   ├── angry/
+
 │   ├── happy/
+
 │   ├── sad/
+
 │   └── ...
+
 
 ---
 
