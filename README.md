@@ -33,7 +33,7 @@ The dataset used in this project is not included in this repository due to size 
 
 TEST : [https://drive.google.com/drive/folders/1OdvVdtLqNcj7_I3fU3ZehGevuP--Fu6a?usp=drive_link]
 
-TRAIN: []
+TRAIN: [https://drive.google.com/drive/folders/1NDtY2xCpYwyBBJsjmx01jWJaNBblhmY4?usp=drive_link]
 
 ---
 ### Dataset Structure:
@@ -56,8 +56,8 @@ project/
 
 The trained model weights are also not included in this repository.
 
-👉 Download model from:
-[Add your Google Drive link here]
+👉 Download model from: 
+[]
 
 After downloading, place it in the root directory:
 
@@ -69,14 +69,11 @@ project/
 ## ⚙️ Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/your-username/Facial-Erpression.git
 
 2. Navigate to the project folder:
-   cd your-repo-name
-
-3. Install dependencies:
-   pip install -r requirements.txt
-
+   cd Facial Expression
+   
 ---
 
 ## ▶️ Usage
@@ -104,23 +101,7 @@ project/
 ## 📁 Project Structure
 
 facial-expression/
-│── notebook.ipynb
+│── facial.ipynb
 │── README.md
-│── requirements.txt
-│── .gitignore
-
----
-
-## 🔮 Future Improvements
-
-* Real-time emotion detection using webcam
-* Improve model accuracy
-* Deploy as a web application (Streamlit/Flask)
-
----
-
-## 🤝 Contributing
-
-Feel free to fork this repository and contribute improvements.
 
 ---
